@@ -1,2 +1,3 @@
 Id	Nombres	Apellidos	Edad
 01	Paul	Sanchez		21
+02	Paul	Sanchez		21
